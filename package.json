@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "this is a simple calcualtor web app",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J L",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
